@@ -26,3 +26,21 @@ a {
 a:hover {
   color: rgb(3,29,53);
 }
+
+
+.icons:hover {
+  transform: scale(1.1);
+}
+
+#icons {
+    margin: 0;
+    padding: 0;
+}
+
+#icons > li {
+    display: inline-block;
+    padding: 0 4px;
+}
+#icons > li > a > img {
+    width: 30px;
+}
