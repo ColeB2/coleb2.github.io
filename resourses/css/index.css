@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(240,240,240);
+}
+
+
+#main-container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 15%;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+
+#image {
+    width: 200px;
+}
+
+
+a {
+  color: rgb(102,111,207);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(3,29,53);
+}
